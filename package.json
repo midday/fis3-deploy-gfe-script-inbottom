@@ -1,0 +1,22 @@
+{
+    "name": "fis3-deploy-gfe-script-inbottom",
+    "version": "1.0.1",
+    "description": "将带有inbottom属性的script标签放到body结束标签之前",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/midday/fis3-deploy-gfe-script-inbottom.git"
+    },
+    "keywords": [
+        "gfe",
+        "fis3",
+        "script",
+        "inbottom"
+    ],
+    "author": "midday",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/midday/fis3-deploy-gfe-script-inbottom/issues"
+    },
+    "homepage": "https://github.com/midday/fis3-deploy-gfe-script-inbottom#readme"
+}
